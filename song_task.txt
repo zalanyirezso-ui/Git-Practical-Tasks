@@ -1,3 +1,5 @@
 Hajnal szebb nem jön el
 A végtelen itt van
-Ring a karomban HelloHello
+Ring a karomban 
+
+HelloHello
